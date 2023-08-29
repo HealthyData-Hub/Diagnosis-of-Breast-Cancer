@@ -1,6 +1,5 @@
 # Diagnosis of Breast Cancer
 
-![Breast Cancer](https://example.com/breast_cancer_image.png)
 
 ## Description
 
