@@ -17,20 +17,13 @@ This project focuses on diagnosing breast cancer using binary, supervised machin
 2. Modify the necessary parameters in the script.
 3. Run the main script: `python main.py`
 
-## Features
-
-- Diagnosing breast cancer using supervised machine learning.
-- Utilizes the k-Nearest Neighbors (KNN) algorithm.
-- Robust 5-fold nested cross-validation for model evaluation.
-- Hyper-parameter tuning to enhance model performance.
-
 ## Contributing
 
-Contributions are welcome! Please follow the guidelines in [https://github.com/github/docs/blob/main/CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md]([CONTRIBUTING.md](https://github.com/github/docs/blob/main/CONTRIBUTING.md)).
 
 ## License
 
-This project is licensed under the [https://github.com/apache/.github/blob/main/LICENSE](LICENSE).
+This project is licensed under the [LICENSE]([LICENSE](https://github.com/apache/.github/blob/main/LICENSE)).
 
 ## Contact
 
