@@ -19,11 +19,11 @@ This project focuses on diagnosing breast cancer using binary, supervised machin
 
 ## Contributing
 
-Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](https://github.com/github/docs/blob/main/CONTRIBUTING.md).
+Contributions are welcome! Please follow the guidelines in the [GitHub CONTRIBUTING.md](https://github.com/github/docs/blob/main/CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the [LICENSE](https://github.com/apache/.github/blob/main/LICENSE).
+This project is licensed under the [APACHE 2.0 LICENSE](https://github.com/apache/.github/blob/main/LICENSE).
 
 ## Contact
 
